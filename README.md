@@ -6,4 +6,4 @@ As for this project, our group wanted to spot keyword stuffing by detecting and 
 
 In addition, I created a resume scoring system to mimic the algorithm of ATS. 
 
-Team: [Boyang Wei](https://www.linkedin.com/in/boyang-wei/)
+Team: [Boyang Wei](https://www.linkedin.com/in/boyang-wei/), [Yuankun Huang](https://www.linkedin.com/in/yuankun-tyler-huang-94114b127/), [Elizabeth Zhu] (https://www.linkedin.com/in/elizabethyizhu/), [Lin Xu](https://www.linkedin.com/in/lin-xu-8182ab15a/), [Yili Yu](https://www.linkedin.com/in/yili-yu-173b62179/), [Leo Xiong](https://www.linkedin.com/in/chuchen-leo-xiong/)
