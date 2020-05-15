@@ -2,7 +2,7 @@
 
 Recruiters are receiving too many resumes to read through them these days.  Instead, a lot of them use Applicant Tracking System (ATS) to simplify the recruiting processes by easily narrow down the applicant pool. One of the most common way ATS selects ideal candidate is keyword search. However, there are applicants who added transparent keywords to ensure ATS ranks their resumes with high relevance, which is known as <b>keyword stuffing</b>.
 
-As for this project, our group wanted to spot keyword stuffing by detecting and highlighting any hidden words existed in resumes. 
+As for this project, our group wanted to spot keyword stuffing by detecting and highlighting any hidden words existed in resumes. We presented a live demo for fellow students and analytical professionals. Sources for this demo can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/tree/master/Demo). 
 
 In addition, I created a resume scoring system to mimic the algorithm of ATS. The code can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/Resume_Scoring_System.ipynb). The subset of the data, which contains 78 resume samples can be downloaded [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/resume_samples.zip). 
 
