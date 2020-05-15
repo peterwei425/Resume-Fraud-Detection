@@ -4,6 +4,6 @@ Recruiters are receiving too many resumes to read through them these days.  Inst
 
 As for this project, our group wanted to spot keyword stuffing by detecting and highlighting any hidden words existed in resumes. 
 
-In addition, I created a resume scoring system to mimic the algorithm of ATS. The code can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/Resume_Scoring_System.ipynb). The subset of the data, which contains 78 resume samples can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/resume_samples.zip). 
+In addition, I created a resume scoring system to mimic the algorithm of ATS. The code can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/Resume_Scoring_System.ipynb). The subset of the data, which contains 78 resume samples can be downloaded [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/resume_samples.zip). 
 
 Team: [Boyang Wei](https://www.linkedin.com/in/boyang-wei/), [Yuankun Huang](https://www.linkedin.com/in/yuankun-tyler-huang-94114b127/), [Elizabeth Zhu](https://www.linkedin.com/in/elizabethyizhu/), [Lin Xu](https://www.linkedin.com/in/lin-xu-8182ab15a/), [Yili Yu](https://www.linkedin.com/in/yili-yu-173b62179/), [Leo Xiong](https://www.linkedin.com/in/chuchen-leo-xiong/)
