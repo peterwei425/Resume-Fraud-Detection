@@ -7,3 +7,5 @@ As for this project, our group wanted to spot keyword stuffing by <b>detecting a
 In addition, I created a resume scoring system <b>which provides each resume (in a PDF format) with a relevancy score </b>based on job descriptions using NLTK and TIKA in Python. It mimics the algorithms of ATS system, and it is used to demostrate the effect of keyword stuffing. The code can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/Resume_Scoring_System.ipynb). The subset of data used, which contains 78 resume samples can be accessed [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/resume_samples.zip). 
 
 Team: [Boyang Wei](https://www.linkedin.com/in/boyang-wei/), [Yuankun Huang](https://www.linkedin.com/in/yuankun-tyler-huang-94114b127/), [Elizabeth Zhu](https://www.linkedin.com/in/elizabethyizhu/), [Lin Xu](https://www.linkedin.com/in/lin-xu-8182ab15a/), [Yili Yu](https://www.linkedin.com/in/yili-yu-173b62179/), [Leo Xiong](https://www.linkedin.com/in/chuchen-leo-xiong/)
+
+![](photos/group_photo.jpeg = =250x250)
